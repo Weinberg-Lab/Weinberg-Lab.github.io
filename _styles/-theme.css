@@ -1,31 +1,31 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #4E2A84;
+  --secondary: #B6ACD1;
   --text: #000000;
-  --background: #ffffff;
+  --background: #FFFFFF;
   --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --light-gray: #BBB8B8;
+  --gray: #716C6B;
+  --dark-gray: #342F2E;
+  --overlay: #4E2A8410;
 }
 
 [data-dark=true] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #4E2A84;
+  --secondary: #B6ACD1;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --light-gray: #716C6B;
+  --gray: #BBB8B8;
+  --dark-gray: #342F2E;
+  --overlay: #4E2A8420;
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Montserrat", sans-serif;
+  --heading: "Montserrat", sans-serif;
+  --body: "Open Sans", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
