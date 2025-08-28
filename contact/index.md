@@ -45,10 +45,8 @@ Chicago, IL 60611
 ### Collaboration
 We welcome collaborations related to our research! Feel free to send a brief note outlining your idea or shared interests.
 
-{% include figure.html image="images/campus_photo_1.jpg" caption="Northwestern University Chicago campus" %}
-
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include figure.html image="images/campus_photo_1.jpg" caption="Northwestern University Chicago campus" %}
 
-_Last updated: {{ site.time | date: "%Y-%m-%d" }}_
+{% include cols.html col1=col1 col2=col2 %}
