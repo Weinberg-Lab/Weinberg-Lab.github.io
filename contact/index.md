@@ -7,71 +7,48 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Get in touch with us!
 
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+If you are interested in joining the lab as a **postdoctoral scholar, graduate student, postgraduate researcher, or undergraduate student**, please reach out — we would love to hear from you.
+
+{% include button.html type="email" text="samuel.weinberg@nm.org" link="samuel.weinberg@nm.org" %}
+{% include button.html type="address" text="Lab Location" tooltip="Open in Google Maps" link="https://maps.google.com/?q=303+E+Chicago+Ave,+Chicago,+IL+60611" %}
 
 {% include section.html %}
 
 {% capture col1 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+### Principal Investigator
+
+**Sam Weinberg, MD, PhD**  
+Assistant Professor of Pathology  
+Northwestern University Feinberg School of Medicine  
+Associate Medical Director, Clinical Immunology Laboratory  
+Northwestern Memorial Hospital  
+
+**Office Address**  
+303 E. Chicago Ave, Tarry Building Rm 3-707  
+Chicago, IL 60611  
+
+**Email:** [samuel.weinberg@nm.org](mailto:samuel.weinberg@nm.org)
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+### Lab Address
+
+**Weinberg Laboratory**  
+303 E. Chicago Ave, Tarry Building Rm 3-772  
+Chicago, IL 60611  
+
+### Collaboration
+We welcome collaborations related to our research! Free free to send a brief note outlining your idea or shared interests.
+
+{% include figure.html image="images/campus_photo_1.jpg" caption="Northwestern University Chicago campus" %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+_Last updated: {{ site.time | date: "%Y-%m-%d" }}_
