@@ -43,7 +43,7 @@ Chicago, IL 60611
 Chicago, IL 60611  
 
 ### Collaboration
-We welcome collaborations related to our research! Free free to send a brief note outlining your idea or shared interests.
+We welcome collaborations related to our research! Feel free to send a brief note outlining your idea or shared interests.
 
 {% include figure.html image="images/campus_photo_1.jpg" caption="Northwestern University Chicago campus" %}
 
