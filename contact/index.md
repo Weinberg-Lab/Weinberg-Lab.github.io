@@ -14,6 +14,9 @@ If you are interested in joining the lab as a **postdoctoral scholar, graduate s
 {% include button.html type="email" text="samuel.weinberg@nm.org" link="samuel.weinberg@nm.org" %}
 {% include button.html type="address" text="Lab Location" tooltip="Open in Google Maps" link="https://maps.google.com/?q=303+E+Chicago+Ave,+Chicago,+IL+60611" %}
 
+### Collaboration
+We also welcome collaborations related to our research! Feel free to send a brief note outlining your idea or shared interests.
+
 {% include section.html %}
 
 {% capture col1 %}
@@ -41,9 +44,6 @@ Chicago, IL 60611
 **Weinberg Laboratory**  
 303 E. Chicago Ave, Tarry Building Rm 3-772  
 Chicago, IL 60611  
-
-### Collaboration
-We welcome collaborations related to our research! Feel free to send a brief note outlining your idea or shared interests.
 
 {% endcapture %}
 
