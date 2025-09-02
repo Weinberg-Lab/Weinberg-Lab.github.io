@@ -26,6 +26,9 @@ lab-manager:
   icon: fa-solid fa-flask-vial
   description: Lab Manager
 
+alumni:
+  description: Alum
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot

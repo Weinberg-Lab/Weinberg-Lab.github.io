@@ -2,14 +2,12 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Meet our lab!
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Come meet the current members of our lab!
 
 {% include section.html %}
 
@@ -18,22 +16,16 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 {% include list.html data="members" component="portrait" filter="role == 'lab-manager'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'postdoc' and role != 'phd' and role != 'undergrad' and role != 'lab-manager'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'postdoc' and role != 'phd' and role != 'undergrad' and role != 'lab-manager' and role != 'alumni'" %}
 
 {% include section.html %}
 
-{% capture content %}
+<hr>
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+# Alumni
 
-{% endcapture %}
+These are the past members of our lab, who have contributed so much to our research and community. We wish them all the best in their future endeavors.
 
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+
+
