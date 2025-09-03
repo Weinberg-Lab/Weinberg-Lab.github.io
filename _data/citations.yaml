@@ -9,6 +9,7 @@
   date: '2025-08-01'
   link: https://doi.org/g92br8
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41590-025-02202-x
@@ -30,6 +31,7 @@
   date: '2025-07-16'
   link: https://doi.org/g9t47j
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -64,6 +66,7 @@
   date: '2025-08-01'
   link: https://doi.org/g92bsb
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1172/JCI178960
@@ -85,6 +88,7 @@
   date: '2025-07-10'
   link: https://doi.org/g9w34t
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.cmet.2025.04.001
@@ -112,6 +116,7 @@
   date: '2025-07-01'
   link: https://doi.org/g9kk49
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41590-025-02166-y
@@ -141,6 +146,7 @@
   date: '2025-06-01'
   link: https://doi.org/g9rttq
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1161/CIRCULATIONAHA.124.070248
@@ -168,6 +174,7 @@
   date: '2025-05-20'
   link: https://doi.org/g92bsc
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1172/JCI179572
@@ -190,6 +197,7 @@
   date: '2025-03-18'
   link: https://doi.org/g92bsd
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1101/2025.02.25.640199
@@ -212,6 +220,7 @@
   date: '2025-03-01'
   link: https://doi.org/g92bsf
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1126/sciadv.adu4369
@@ -233,6 +242,7 @@
   date: '2025-01-24'
   link: https://doi.org/g82sm5
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1172/JCI186520
@@ -244,6 +254,7 @@
   date: '2024-12-02'
   link: https://doi.org/g8tdmm
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41590-024-02005-6
@@ -255,6 +266,7 @@
   date: '2024-11-04'
   link: https://doi.org/g92bsg
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.immuni.2024.08.008
@@ -279,6 +291,7 @@
   date: '2024-11-01'
   link: https://doi.org/g92bsh
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.molimm.2024.08.004
@@ -296,6 +309,7 @@
   date: '2024-10-01'
   link: https://doi.org/g92bsj
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: issn:1556-0864
@@ -305,6 +319,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/1556-0864
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s42255-024-01080-1
@@ -330,6 +345,7 @@
   date: '2024-07-24'
   link: https://doi.org/gt45n8
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.xcrm.2024.101441
@@ -365,6 +381,7 @@
   date: '2024-03-01'
   link: https://doi.org/g92bsk
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1158/1538-7445.AM2024-176
@@ -381,6 +398,7 @@
   date: '2024-03-22'
   link: https://doi.org/g92bsm
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.3389/fncel.2024.1321682
@@ -404,6 +422,7 @@
   date: '2024-02-26'
   link: https://doi.org/g92bsn
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1101/2023.11.29.568904
@@ -426,6 +445,7 @@
   date: '2023-12-01'
   link: https://doi.org/g92bsp
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1172/jci.insight.171359
@@ -464,6 +484,7 @@
   date: '2023-09-08'
   link: https://doi.org/gs5868
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.clim.2023.109634
@@ -497,6 +518,7 @@
   date: '2023-07-01'
   link: https://doi.org/g92bsr
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: issn:1073-449X
@@ -507,6 +529,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/1073-449X
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.4049/jimmunol.2200746
@@ -526,6 +549,7 @@
   date: '2023-03-01'
   link: https://doi.org/g92bss
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.21203/rs.3.rs-2448086/v1
@@ -547,6 +571,7 @@
   date: '2023-01-25'
   link: https://doi.org/g92bst
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.humpath.2022.12.001
@@ -569,6 +594,7 @@
   date: '2023-01-01'
   link: https://doi.org/g92bsv
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.xpro.2022.101668
@@ -585,6 +611,7 @@
   date: '2022-12-01'
   link: https://doi.org/g92bsw
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1126/sciadv.abo4116
@@ -612,6 +639,7 @@
   date: '2022-11-23'
   link: https://doi.org/grhrqb
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.humpath.2022.06.025
@@ -632,6 +660,7 @@
   date: '2022-10-01'
   link: https://doi.org/g92bsx
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41598-022-12069-9
@@ -659,6 +688,7 @@
   date: '2022-05-17'
   link: https://doi.org/g92bsz
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.4049/jimmunol.208.Supp.166.13
@@ -673,6 +703,7 @@
   date: '2022-05-01'
   link: https://doi.org/g92bs2
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1101/2022.03.26.485922
@@ -706,6 +737,7 @@
   date: '2022-03-28'
   link: https://doi.org/g92bs3
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.jaci.2022.02.031
@@ -729,6 +761,7 @@
   date: '2022-08-01'
   link: https://doi.org/g92bs4
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41598-022-09074-3
@@ -756,6 +789,7 @@
   date: '2022-03-25'
   link: https://doi.org/gsk5j4
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.molcel.2022.02.028
@@ -786,6 +820,7 @@
   date: '2022-04-01'
   link: https://doi.org/gqbvwj
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1159/000518758
@@ -803,6 +838,7 @@
   date: '2021-09-14'
   link: https://doi.org/gqkv9b
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1159/000521259
@@ -819,6 +855,7 @@
   date: '2022-01-01'
   link: https://doi.org/g92bs5
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.4049/immunohorizons.2100046
@@ -831,6 +868,7 @@
   date: '2021-12-01'
   link: https://doi.org/g92bs6
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.molcel.2021.10.028
@@ -856,6 +894,7 @@
   date: '2021-12-01'
   link: https://doi.org/g92bs7
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: issn:0022-1767
@@ -865,6 +904,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/0022-1767
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1073/pnas.2021385118
@@ -886,6 +926,7 @@
   date: '2021-03-22'
   link: https://doi.org/gpdw38
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: issn:0893-3952
@@ -895,6 +936,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/0893-3952
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: issn:0023-6837
@@ -904,6 +946,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/0023-6837
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.immuni.2020.12.006
@@ -915,6 +958,7 @@
   date: '2021-01-01'
   link: https://doi.org/g92bs8
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.3390/molecules26010031
@@ -930,6 +974,7 @@
   date: '2020-12-23'
   link: https://doi.org/g92bs9
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.yamp.2020.07.016
@@ -941,6 +986,7 @@
   date: '2020-11-01'
   link: https://doi.org/g92btb
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1172/jci137712
@@ -963,6 +1009,7 @@
   date: '2020-11-09'
   link: https://doi.org/g92btc
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41586-020-2475-6
@@ -986,6 +1033,7 @@
   date: '2020-07-08'
   link: https://doi.org/gtzxrb
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.eclinm.2020.100475
@@ -1003,6 +1051,7 @@
   date: '2020-09-01'
   link: https://doi.org/gg6v5p
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1111/bjh.16848
@@ -1015,6 +1064,7 @@
   date: '2020-06-02'
   link: https://doi.org/ggx4ht
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1101/2020.05.18.20101709
@@ -1032,6 +1082,7 @@
   date: '2020-05-22'
   link: https://doi.org/gk69qr
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.3389/fphys.2020.630910
@@ -1052,6 +1103,7 @@
   date: '2021-01-21'
   link: https://doi.org/g92btd
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.celrep.2019.06.024
@@ -1073,6 +1125,7 @@
   date: '2019-07-01'
   link: https://doi.org/gtt3tf
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.cmet.2019.01.014
@@ -1093,6 +1146,7 @@
   date: '2019-04-01'
   link: https://doi.org/gfvk36
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.cmet.2018.12.004
@@ -1115,6 +1169,7 @@
   date: '2019-02-01'
   link: https://doi.org/gnmn89
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1158/2326-6074.CRICIMTEATIAACR18-B067
@@ -1128,6 +1183,7 @@
   date: '2019-02-01'
   link: https://doi.org/g92btf
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s41586-018-0846-z
@@ -1151,6 +1207,7 @@
   date: '2019-01-01'
   link: https://doi.org/gfs3hr
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/s42255-018-0011-x
@@ -1167,6 +1224,7 @@
   date: '2019-01-07'
   link: https://doi.org/gf5gqr
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1186/s40170-018-0184-5
@@ -1186,6 +1244,7 @@
   date: '2018-08-17'
   link: https://doi.org/gd4w4c
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/nri.2017.66
@@ -1198,6 +1257,7 @@
   date: '2017-07-03'
   link: https://doi.org/gf97hs
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1183/1393003.congress-2017.PA384
@@ -1216,6 +1276,7 @@
   date: '2017-09-01'
   link: https://doi.org/g92btg
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1165/rcmb.2016-0355TR
@@ -1229,6 +1290,7 @@
   date: '2017-07-01'
   link: https://doi.org/gbmhdz
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/ncb3527
@@ -1255,6 +1317,7 @@
   date: '2017-05-15'
   link: https://doi.org/gbpfkc
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/ncb3529
@@ -1279,6 +1342,7 @@
   date: '2017-05-15'
   link: https://doi.org/f97d3n
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1073/pnas.1608198113
@@ -1303,6 +1367,7 @@
   date: '2016-10-04'
   link: https://doi.org/f87rfb
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.celrep.2016.03.044
@@ -1317,6 +1382,7 @@
   date: '2016-04-01'
   link: https://doi.org/gtrg84
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.cmet.2016.03.010
@@ -1336,6 +1402,7 @@
   date: '2016-04-01'
   link: https://doi.org/g92bth
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: issn:0892-6638
@@ -1345,6 +1412,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/0892-6638
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.molcel.2015.12.002
@@ -1371,6 +1439,7 @@
   date: '2016-01-01'
   link: https://doi.org/f8fdzj
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.immuni.2015.02.002
@@ -1383,6 +1452,7 @@
   date: '2015-03-01'
   link: https://doi.org/f7cgkf
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1038/nchembio.1712
@@ -1394,6 +1464,7 @@
   date: '2014-12-17'
   link: https://doi.org/gdj585
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1016/j.immuni.2014.06.009
@@ -1405,6 +1476,7 @@
   date: '2014-07-01'
   link: https://doi.org/ggj6gx
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1093/toxsci/kfu065
@@ -1425,6 +1497,7 @@
   date: '2014-04-09'
   link: https://doi.org/g92btj
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.7554/eLife.02242
@@ -1445,6 +1518,7 @@
   date: '2014-05-13'
   link: https://doi.org/gfpb2x
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
 - id: doi:10.1073/pnas.1003428107
@@ -1465,5 +1539,6 @@
   date: '2010-04-26'
   link: https://doi.org/bhkrsk
   orcid: 0000-0002-9532-7051
+  sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
