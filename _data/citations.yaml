@@ -1,5 +1,1466 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.immuni.2025.07.012
+  title: Mitochondria reactive oxygen species signaling in immune responses
+  authors:
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Immunity
+  date: '2025-08-01'
+  link: https://doi.org/g92br8
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41590-025-02202-x
+  title: Mitochondrial respiration is necessary for CD8+ T cell proliferation and
+    cell fate
+  authors:
+  - Elizabeth M. Steinert
+  - Beatriz Furtado Bruza
+  - Veronika D. Danchine
+  - Rogan A. Grant
+  - Karthik Vasan
+  - Arjun Kharel
+  - Yuqi Zhang
+  - Weiguo Cui
+  - Marten Szibor
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Nature Immunology
+  date: '2025-07-16'
+  link: https://doi.org/g9t47j
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.xcrm.2025.102262
+  title: Identification of immune signatures associated with both SARS-CoV-2 infection
+    and lung transplantation
+  authors:
+  - Andrew D. Hoffmann
+  - Hannah Faisal Almubarak
+  - Radhika Iyer
+  - Sam E. Weinberg
+  - Joshua R. Squires
+  - Chengsheng Mao
+  - Juncheng Wei
+  - Shuvam Chaudhuri
+  - Lamiaa El-Shennawy
+  - Nurmaa K. Dashzeveg
+  - Yuzhi Jia
+  - Alexis R. Demonbreun
+  - Matthew J. Schipma
+  - Yuan Luo
+  - Suchitra Swaminathan
+  - Michael G. Ison
+  - Huiping Liu
+  - Deyu Fang
+  publisher: Cell Reports Medicine
+  date: '2025-08-01'
+  link: https://doi.org/g92bsb
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1172/JCI178960
+  title: "Treg activation during allograft tolerance induction requires mitochondrial-induced\
+    \ TGF\u03B21 in type 1 conventional dendritic cells"
+  authors:
+  - Samantha L Schroth
+  - Lei Zhang
+  - Rebecca T.L. Jones
+  - Kristofor Glinton
+  - Nikita L. Mani
+  - Hiroyasu Inui
+  - Jesse T. Davidson
+  - Samuel E. Weinberg
+  - Navdeep Chandel
+  - Maria-Luisa Alegre
+  - Edward B. Thorp
+  publisher: Journal of Clinical Investigation
+  date: '2025-07-10'
+  link: https://doi.org/g9w34t
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.cmet.2025.04.001
+  title: Protein O-GlcNAcylation and hexokinase mitochondrial dissociation drive heart
+    failure with preserved ejection fraction
+  authors:
+  - Yuki Tatekoshi
+  - Amir Mahmoodzadeh
+  - Jason S. Shapiro
+  - Mingyang Liu
+  - George M. Bianco
+  - Ayumi Tatekoshi
+  - Spencer Duncan Camp
+  - Adam De Jesus
+  - Navid Koleini
+  - Santiago De La Torre
+  - J. Andrew Wasserstrom
+  - Wolfgang H. Dillmann
+  - Benjamin R. Thomson
+  - Kenneth C. Bedi
+  - Kenneth B. Margulies
+  - Samuel E. Weinberg
+  - Hossein Ardehali
+  publisher: Cell Metabolism
+  date: '2025-07-01'
+  link: https://doi.org/g9kk49
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41590-025-02166-y
+  title: Succinate drives gut inflammation by promoting FOXP3 degradation through
+    a molecular switch
+  authors:
+  - Hai Wang
+  - Danqing Hu
+  - Yang Cheng
+  - Qiong Gao
+  - Kun Liu
+  - Nikita L. Mani
+  - Amy Y. Tang
+  - Radhika Iyer
+  - Beixue Gao
+  - Leyu Sun
+  - Qi Zhou
+  - Qin Yu
+  - Samuel E. Weinberg
+  - Xiaoyu Zhang
+  - Yingzi Cong
+  - Parambir S. Dulai
+  - Yana Zhang
+  - Zheng Liu
+  - Deyu Fang
+  publisher: Nature Immunology
+  date: '2025-06-01'
+  link: https://doi.org/g9rttq
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1161/CIRCULATIONAHA.124.070248
+  title: Myeloid Fatty Acid Metabolism Activates Neighboring Hematopoietic Stem Cells
+    to Promote Heart Failure With Preserved Ejection Fraction
+  authors:
+  - Mallory Filipp
+  - Zhi-Dong Ge
+  - Matthew DeBerge
+  - Connor Lantz
+  - Kristofor Glinton
+  - Peng Gao
+  - Sasha Smolgovsky
+  - Jingbo Dai
+  - You-Yang Zhao
+  - Laurent Yvan-Charvet
+  - Pilar Alcaide
+  - Samuel E. Weinberg
+  - Gabriele G. Schiattarella
+  - Joseph A. Hill
+  - Matthew J. Feinstein
+  - Sanjiv J. Shah
+  - Edward B. Thorp
+  publisher: Circulation
+  date: '2025-05-20'
+  link: https://doi.org/g92bsc
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1172/JCI179572
+  title: AMPK is necessary for Treg functional adaptation to microenvironmental stress
+    during malignancy and viral pneumonia
+  authors:
+  - Manuel A. Torres Acosta
+  - Jonathan K. Gurkan
+  - Qianli Liu
+  - Nurbek Mambetsariev
+  - Carla Reyes Flores
+  - Kathryn A. Helmin
+  - Anthony M. Joudi
+  - Luisa Morales-Nebreda
+  - Kathleen Cheng
+  - Hiam Abdala-Valencia
+  - Samuel E. Weinberg
+  - Benjamin D. Singer
+  publisher: Journal of Clinical Investigation
+  date: '2025-03-18'
+  link: https://doi.org/g92bsd
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1101/2025.02.25.640199
+  title: Maintenance DNA methylation is required for induced regulatory T cell reparative
+    function following viral pneumonia
+  authors:
+  - Anthony M. Joudi
+  - Jonathan K. Gurkan
+  - Qianli Liu
+  - Manuel A. Torres Acosta
+  - Kathryn A. Helmin
+  - Luisa Morales-Nebreda
+  - Nurbek Mambetsariev
+  - Carla Patricia Reyes Flores
+  - Hiam Abdala-Valencia
+  - Elizabeth M. Steinert
+  - Samuel E. Weinberg
+  - Benjamin D. Singer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-01'
+  link: https://doi.org/g92bsf
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1126/sciadv.adu4369
+  title: "Mitochondria complex III\u2013generated superoxide is essential for IL-10\
+    \ secretion in macrophages"
+  authors:
+  - Joshua S. Stoolman
+  - Rogan A. Grant
+  - Leah K. Billingham
+  - Taylor A. Poor
+  - Samuel E. Weinberg
+  - Madeline C. Harding
+  - Ziyan Lu
+  - Jason Miska
+  - Marten Szibor
+  - GR Scott Budinger
+  - Navdeep S. Chandel
+  publisher: Science Advances
+  date: '2025-01-24'
+  link: https://doi.org/g82sm5
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1172/JCI186520
+  title: 'Sex, cells, and metabolism: Androgens temper Th17-mediated immunity'
+  authors:
+  - Nikita L. Mani
+  - Samuel E. Weinberg
+  publisher: Journal of Clinical Investigation
+  date: '2024-12-02'
+  link: https://doi.org/g8tdmm
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41590-024-02005-6
+  title: COQ6 defies immune and metabolic expectations
+  authors:
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Nature Immunology
+  date: '2024-11-04'
+  link: https://doi.org/g92bsg
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.immuni.2024.08.008
+  title: "Inhibitory co-receptor Lag3 supports Foxp3+ regulatory T\_cell function\
+    \ by restraining Myc-dependent metabolic programming"
+  authors:
+  - Dongkyun Kim
+  - Giha Kim
+  - Rongzhen Yu
+  - Juyeun Lee
+  - Sohee Kim
+  - Mia R. Gleason
+  - Kevin Qiu
+  - Elena Montauti
+  - Li Lily Wang
+  - Deyu Fang
+  - Jaehyuk Choi
+  - Navdeep S. Chandel
+  - Samuel Weinberg
+  - Booki Min
+  publisher: Immunity
+  date: '2024-11-01'
+  link: https://doi.org/g92bsh
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.molimm.2024.08.004
+  title: Acidity induces durable enhancement of Treg cell suppressive functions for
+    tumor immune evasion
+  authors:
+  - Nikita L. Mani
+  - Samuel E. Weinberg
+  - Shuvam Chaudhuri
+  - Elena Montauti
+  - Amy Tang
+  - Radhika Iyer
+  - Deyu Fang
+  publisher: Molecular Immunology
+  date: '2024-10-01'
+  link: https://doi.org/g92bsj
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: issn:1556-0864
+  title: ISSN 1556-0864 (Print) | Journal of thoracic oncology | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1556-0864
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s42255-024-01080-1
+  title: Mitochondrial respiration in microglia is essential for response to demyelinating
+    injury but not proliferation
+  authors:
+  - Joshua S. Stoolman
+  - Rogan A. Grant
+  - Taylor A. Poor
+  - Samuel E. Weinberg
+  - "Karis B. D\u2019Alessandro"
+  - Jerica Tan
+  - Jennifer Yuan-Shih Hu
+  - Megan E. Zerrer
+  - Walter A. Wood
+  - Madeline C. Harding
+  - Sahil Soni
+  - Karen M. Ridge
+  - Paul T. Schumacker
+  - G. R. Scott Budinger
+  - Navdeep S. Chandel
+  publisher: Nature Metabolism
+  date: '2024-07-24'
+  link: https://doi.org/gt45n8
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.xcrm.2024.101441
+  title: Mediator complex subunit 1 architects a tumorigenic Treg cell program independent
+    of inflammation
+  authors:
+  - Shuvam M. Chaudhuri
+  - Samuel E. Weinberg
+  - Dongmei Wang
+  - Lenore K. Yalom
+  - Elena Montauti
+  - Radhika Iyer
+  - Amy Y. Tang
+  - Manuel A. Torres Acosta
+  - Jian Shen
+  - Nikita L. Mani
+  - Shengnan Wang
+  - Kun Liu
+  - Weiyuan Lu
+  - Triet M. Bui
+  - Laura D. Manzanares
+  - Zeinab Dehghani
+  - Ching Man Wai
+  - Beixue Gao
+  - Juncheng Wei
+  - Feng Yue
+  - Weiguo Cui
+  - Benjamin D. Singer
+  - Ronen Sumagin
+  - Yana Zhang
+  - Deyu Fang
+  publisher: Cell Reports Medicine
+  date: '2024-03-01'
+  link: https://doi.org/g92bsk
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1158/1538-7445.AM2024-176
+  title: 'Abstract 176: Stearic acid induces pro-inflammatory macrophage response
+    important for lung cancer development'
+  authors:
+  - Amrita Roy
+  - Martin Davis
+  - Samuel Weinberg
+  - Apurva Mallisetty
+  - Alicia Hulbert
+  - Frank D. Weinberg
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/g92bsm
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.3389/fncel.2024.1321682
+  title: Characterization of hyperpolarization-activated cyclic nucleotide-gated channels
+    in oligodendrocytes
+  authors:
+  - Kyle A. Lyman
+  - Ye Han
+  - Andrew P. Robinson
+  - Samuel E. Weinberg
+  - Daniel W. Fisher
+  - Robert J. Heuermann
+  - Reagan E. Lyman
+  - Dong Kyu Kim
+  - Andreas Ludwig
+  - Navdeep S. Chandel
+  - Mark D. Does
+  - Stephen D. Miller
+  - Dane M. Chetkovich
+  publisher: Frontiers in Cellular Neuroscience
+  date: '2024-02-26'
+  link: https://doi.org/g92bsn
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1101/2023.11.29.568904
+  title: AMP-activated protein kinase is necessary for Treg cell functional adaptation
+    to microenvironmental stress
+  authors:
+  - Manuel A Torres Acosta
+  - Nurbek Mambetsariev
+  - Carla P Reyes Flores
+  - Kathryn A Helmin
+  - Qianli Liu
+  - Anthony M Joudi
+  - Luisa Morales-Nebreda
+  - Jonathan Gurkan
+  - Kathleen Cheng
+  - Hiam Abdala-Valencia
+  - Samuel E Weinberg
+  - Benjamin D Singer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-01'
+  link: https://doi.org/g92bsp
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1172/jci.insight.171359
+  title: Single-cell profiling reveals inflammatory polarization of human carotid
+    versus femoral plaque leukocytes
+  authors:
+  - Joshua Slysz
+  - Arjun Sinha
+  - Matthew DeBerge
+  - Shalini Singh
+  - Harris Avgousti
+  - Inhyeok Lee
+  - Kristofor Glinton
+  - Reina Nagasaka
+  - Prarthana Dalal
+  - Shaina Alexandria
+  - Ching Man Wai
+  - Ricardo Tellez
+  - Mariavittoria Vescovo
+  - Ashwin Sunderraj
+  - Xinkun Wang
+  - Matthew Schipma
+  - Ryan Sisk
+  - Rishab Gulati
+  - Jenifer Vallejo
+  - Ryosuke Saigusa
+  - Donald M. Lloyd-Jones
+  - Jon Lomasney
+  - Samuel Weinberg
+  - Karen Ho
+  - Klaus Ley
+  - Chiara Giannarelli
+  - Edward B. Thorp
+  - Matthew J. Feinstein
+  publisher: JCI Insight
+  date: '2023-09-08'
+  link: https://doi.org/gs5868
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.clim.2023.109634
+  title: Unique molecular signatures sustained in circulating monocytes and regulatory
+    T cells in convalescent COVID-19 patients
+  authors:
+  - Andrew D. Hoffmann
+  - Sam E. Weinberg
+  - Suchitra Swaminathan
+  - Shuvam Chaudhuri
+  - Hannah Faisal Almubarak
+  - Matthew J. Schipma
+  - Chengsheng Mao
+  - Xinkun Wang
+  - Lamiaa El-Shennawy
+  - Nurmaa K. Dashzeveg
+  - Juncheng Wei
+  - Paul J. Mehl
+  - Laura J. Shihadah
+  - Ching Man Wai
+  - Carolina Ostiguin
+  - Yuzhi Jia
+  - Paolo D'Amico
+  - Neale R. Wang
+  - Yuan Luo
+  - Alexis R. Demonbreun
+  - Michael G. Ison
+  - Huiping Liu
+  - Deyu Fang
+  publisher: Clinical Immunology
+  date: '2023-07-01'
+  link: https://doi.org/g92bsr
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: issn:1073-449X
+  title: ISSN 1073-449X (Print) | American journal of respiratory and critical care
+    medicine | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1073-449X
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.4049/jimmunol.2200746
+  title: IFN-Induced Protein with Tetratricopeptide Repeats 2 Limits Autoimmune Inflammation
+    by Regulating Myeloid Cell Activation and Metabolic Activity
+  authors:
+  - Dongkyun Kim
+  - Nagendra Kumar Rai
+  - Amy Burrows
+  - Sohee Kim
+  - Ajai Tripathi
+  - Samuel E Weinberg
+  - Ranjan Dutta
+  - Ganes C Sen
+  - Booki Min
+  publisher: The Journal of Immunology
+  date: '2023-03-01'
+  link: https://doi.org/g92bss
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.21203/rs.3.rs-2448086/v1
+  title: Hexokinase-1 mitochondrial dissociation and protein O-GlcNAcylation drive
+    heart failure with preserved ejection fraction
+  authors:
+  - Yuki Tatekoshi
+  - Jason Shapiro
+  - Mingyang Liu
+  - George Bianco
+  - Ayumi Tatekoshi
+  - Adam De Jesus
+  - Navid Koleini
+  - J. Andrew Wasserstrom
+  - Wolfgang Dillmann
+  - Samuel Weinberg
+  - Hossein Ardehali
+  publisher: Springer Science and Business Media LLC
+  date: '2023-01-25'
+  link: https://doi.org/g92bst
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.humpath.2022.12.001
+  title: Clinical and histopathologic characterization of SETD2-mutated colorectal
+    cancer
+  authors:
+  - Omar Bushara
+  - James R. Wester
+  - Danielle Jacobsen
+  - Leyu Sun
+  - Samuel Weinberg
+  - Juehua Gao
+  - Lawrence J. Jennings
+  - Lu Wang
+  - Shannon M. Lauberth
+  - Feng Yue
+  - Jie Liao
+  - Guang-Yu Yang
+  publisher: Human Pathology
+  date: '2023-01-01'
+  link: https://doi.org/g92bsv
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.xpro.2022.101668
+  title: Optimized protocol to isolate primary mouse peritoneal macrophage metabolites
+  authors:
+  - Adam De Jesus
+  - Carolina M. Pusec
+  - Tivoli Nguyen
+  - Farnaz Keyhani-Nejad
+  - Peng Gao
+  - Samuel E. Weinberg
+  - Hossein Ardehali
+  publisher: STAR Protocols
+  date: '2022-12-01'
+  link: https://doi.org/g92bsw
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1126/sciadv.abo4116
+  title: "A deubiquitination module essential for T\n            <sub>reg</sub>\n\
+    \            fitness in the tumor microenvironment"
+  authors:
+  - Elena Montauti
+  - Samuel E. Weinberg
+  - Peng Chu
+  - Shuvam Chaudhuri
+  - Nikita L. Mani
+  - Radhika Iyer
+  - Yuanzhang Zhou
+  - Yusi Zhang
+  - Changhong Liu
+  - Chen Xin
+  - Shana Gregory
+  - Juncheng Wei
+  - Yana Zhang
+  - Wantao Chen
+  - Zhaolin Sun
+  - Ming Yan
+  - Deyu Fang
+  publisher: Science Advances
+  date: '2022-11-23'
+  link: https://doi.org/grhrqb
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.humpath.2022.06.025
+  title: The effect of human immunodeficiency virus and human papillomavirus strain
+    diversity on the progression of anal squamous intraepithelial lesions
+  authors:
+  - Omar Bushara
+  - Samuel Edward Weinberg
+  - Brian Steven Finkelman
+  - Hongmei Jiang
+  - Katrina Krogh
+  - Leyu Sun
+  - Amy L. Halverson
+  - Lawrence J. Jennings
+  - Jie Liao
+  - Guang-Yu Yang
+  publisher: Human Pathology
+  date: '2022-10-01'
+  link: https://doi.org/g92bsx
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41598-022-12069-9
+  title: 'Author Correction: Reduced expression of mitochondrial complex I subunit
+    Ndufs2 does not impact healthspan in mice'
+  authors:
+  - Gregory S. McElroy
+  - Ram P. Chakrabarty
+  - "Karis B. D\u2019Alessandro"
+  - Yuan-Shih Hu
+  - Karthik Vasan
+  - Jerica Tan
+  - Joshua S. Stoolman
+  - Samuel E. Weinberg
+  - Elizabeth M. Steinert
+  - Paul A. Reyfman
+  - Benjamin D. Singer
+  - Warren C. Ladiges
+  - Lin Gao
+  - "Jos\xE9 Lop\xE9z\u2011Barneo"
+  - Karen Ridge
+  - G. R. Scott Budinger
+  - Navdeep S. Chandel
+  publisher: Scientific Reports
+  date: '2022-05-17'
+  link: https://doi.org/g92bsz
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.4049/jimmunol.208.Supp.166.13
+  title: Mediator complex maintains peripheral T cell tolerance through enforcement
+    of the quiescence module
+  authors:
+  - Shuvam Mohan Chaudhuri
+  - Yana Zhang
+  - Samuel E Weinberg
+  - Deyu Fang
+  publisher: The Journal of Immunology
+  date: '2022-05-01'
+  link: https://doi.org/g92bs2
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1101/2022.03.26.485922
+  title: Unique molecular signatures sustained in circulating monocytes and regulatory
+    T cells in Convalescent COVID-19 patients
+  authors:
+  - Andrew D. Hoffmann
+  - Sam E. Weinberg
+  - Suchitra Swaminathan
+  - Shuvam Chaudhuri
+  - Hannah Faisal Mubarak
+  - Matthew J. Schipma
+  - Chengsheng Mao
+  - Xinkun Wang
+  - Lamiaa El-Shennawy
+  - Nurmaa K. Dashzeveg
+  - Juncheng Wei
+  - Paul J. Mehl
+  - Laura J. Shihadah
+  - Ching Man Wai
+  - Carolina Ostiguin
+  - Yuzhi Jia
+  - "Paolo D\u2019Amico"
+  - Neale R. Wang
+  - Yuan Luo
+  - Alexis R. Demonbreun
+  - Michael G. Ison
+  - Huiping Liu
+  - Deyu Fang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-28'
+  link: https://doi.org/g92bs3
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.jaci.2022.02.031
+  title: IL-17A mediates pyroptosis via the ERK pathway and contributes to steroid
+    resistance in CRSwNP
+  authors:
+  - Yue Li
+  - Li-Hong Chang
+  - Wei-Qiang Huang
+  - Hong-Wei Bao
+  - Xia Li
+  - Xiao-Hong Chen
+  - Hao-Tian Wu
+  - Zhou-Zhou Yao
+  - Zi-Zhen Huang
+  - Samuel E. Weinberg
+  - De-Yu Fang
+  - Ya-Na Zhang
+  - Ge-Hua Zhang
+  publisher: Journal of Allergy and Clinical Immunology
+  date: '2022-08-01'
+  link: https://doi.org/g92bs4
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41598-022-09074-3
+  title: Reduced expression of mitochondrial complex I subunit Ndufs2 does not impact
+    healthspan in mice
+  authors:
+  - Gregory S. McElroy
+  - Ram P. Chakrabarty
+  - "Karis B. D\u2019Alessandro"
+  - Yuan-Shih Hu
+  - Karthik Vasan
+  - Jerica Tan
+  - Joshua S. Stoolman
+  - Samuel E. Weinberg
+  - Elizabeth M. Steinert
+  - Paul A. Reyfman
+  - Benjamin D. Singer
+  - Warren C. Ladiges
+  - Lin Gao
+  - "Jos\xE9 Lop\xE9z-Barneo"
+  - Karen Ridge
+  - G. R. Scott Budinger
+  - Navdeep S. Chandel
+  publisher: Scientific Reports
+  date: '2022-03-25'
+  link: https://doi.org/gsk5j4
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.molcel.2022.02.028
+  title: Hexokinase 1 cellular localization regulates the metabolic fate of glucose
+  authors:
+  - Adam De Jesus
+  - Farnaz Keyhani-Nejad
+  - Carolina M. Pusec
+  - Lauren Goodman
+  - Justin A. Geier
+  - Joshua S. Stoolman
+  - Paulina J. Stanczyk
+  - Tivoli Nguyen
+  - Kai Xu
+  - Krishna V. Suresh
+  - Yihan Chen
+  - Arianne E. Rodriguez
+  - Jason S. Shapiro
+  - Hsiang-Chun Chang
+  - Chunlei Chen
+  - Kriti P. Shah
+  - Issam Ben-Sahra
+  - Brian T. Layden
+  - Navdeep S. Chandel
+  - Samuel E. Weinberg
+  - Hossein Ardehali
+  publisher: Molecular Cell
+  date: '2022-04-01'
+  link: https://doi.org/gqbvwj
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1159/000518758
+  title: 'Human Immunodeficiency Virus Infection Promotes Human Papillomavirus-Mediated
+    Anal Squamous Carcinogenesis: An Immunologic and Pathobiologic Review'
+  authors:
+  - Omar Bushara
+  - Katrina Krogh
+  - Samuel Edward Weinberg
+  - Brian Steven Finkelman
+  - Leyu Sun
+  - Jie Liao
+  - Guang-Yu Yang
+  publisher: Pathobiology
+  date: '2021-09-14'
+  link: https://doi.org/gqkv9b
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1159/000521259
+  title: "The Possible Pathogenic Role of IgG4-Producing Plasmablasts in Stricturing\
+    \ Crohn\u2019s Disease"
+  authors:
+  - Omar Bushara
+  - David Joseph Escobar
+  - Samuel Edward Weinberg
+  - Leyu Sun
+  - Jie Liao
+  - Guang-Yu Yang
+  publisher: Pathobiology
+  date: '2022-01-01'
+  link: https://doi.org/g92bs5
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.4049/immunohorizons.2100046
+  title: Toward a Paradigm to Distinguish Distinct Functions of FOXP3+ Regulatory
+    T Cells
+  authors:
+  - Samuel E Weinberg
+  - Benjamin D Singer
+  publisher: ImmunoHorizons
+  date: '2021-12-01'
+  link: https://doi.org/g92bs6
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.molcel.2021.10.028
+  title: HRD1-mediated METTL14 degradation regulates m6A mRNA modification to suppress
+    ER proteotoxic liver disease
+  authors:
+  - Juncheng Wei
+  - Bryan T. Harada
+  - Dan Lu
+  - Ruihua Ma
+  - Beixue Gao
+  - Yanan Xu
+  - Elena Montauti
+  - Nikita Mani
+  - Shuvam M. Chaudhuri
+  - Shana Gregory
+  - Samuel E. Weinberg
+  - Donna D. Zhang
+  - Richard Green
+  - Chuan He
+  - Deyu Fang
+  publisher: Molecular Cell
+  date: '2021-12-01'
+  link: https://doi.org/g92bs7
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: issn:0022-1767
+  title: ISSN 0022-1767 (Print) | The Journal of immunology | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0022-1767
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1073/pnas.2021385118
+  title: Mitochondrial metabolism is essential for invariant natural killer T cell
+    development and function
+  authors:
+  - Xiufang Weng
+  - Amrendra Kumar
+  - Liang Cao
+  - Ying He
+  - Eva Morgun
+  - Lavanya Visvabharathy
+  - Jie Zhao
+  - Laura A. Sena
+  - Sam E. Weinberg
+  - Navdeep S. Chandel
+  - Chyung-Ru Wang
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-03-22'
+  link: https://doi.org/gpdw38
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: issn:0893-3952
+  title: ISSN 0893-3952 (Print) | Modern pathology | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0893-3952
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: issn:0023-6837
+  title: ISSN 0023-6837 (Print) | Laboratory investigation | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0023-6837
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.immuni.2020.12.006
+  title: Targeting Bacteria within Us to Diminish Infection and Autoimmunity
+  authors:
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Immunity
+  date: '2021-01-01'
+  link: https://doi.org/g92bs8
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.3390/molecules26010031
+  title: Overview of Inositol and Inositol Phosphates on Chemoprevention of Colitis-Induced
+    Carcinogenesis
+  authors:
+  - Samuel E. Weinberg
+  - Le Yu Sun
+  - Allison L. Yang
+  - Jie Liao
+  - Guang Yu Yang
+  publisher: Molecules
+  date: '2020-12-23'
+  link: https://doi.org/g92bs9
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.yamp.2020.07.016
+  title: HLA and Autoimmune Disease
+  authors:
+  - Samuel E. Weinberg
+  - Lawrence J. Jennings
+  publisher: Advances in Molecular Pathology
+  date: '2020-11-01'
+  link: https://doi.org/g92btb
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1172/jci137712
+  title: Maintenance DNA methylation is essential for regulatory T cell development
+    and stability of suppressive function
+  authors:
+  - Kathryn A. Helmin
+  - Luisa Morales-Nebreda
+  - Manuel A. Torres Acosta
+  - Kishore R. Anekalla
+  - Shang-Yang Chen
+  - Hiam Abdala-Valencia
+  - Yuliya Politanska
+  - Paul Cheresh
+  - Mahzad Akbarpour
+  - Elizabeth M. Steinert
+  - Samuel E. Weinberg
+  - Benjamin D. Singer
+  publisher: Journal of Clinical Investigation
+  date: '2020-11-09'
+  link: https://doi.org/g92btc
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41586-020-2475-6
+  title: Mitochondrial ubiquinol oxidation is necessary for tumour growth
+  authors:
+  - "Inmaculada Mart\xEDnez-Reyes"
+  - Luzivette Robles Cardona
+  - Hyewon Kong
+  - Karthik Vasan
+  - Gregory S. McElroy
+  - Marie Werner
+  - Hermon Kihshen
+  - Colleen R. Reczek
+  - Samuel E. Weinberg
+  - Peng Gao
+  - Elizabeth M. Steinert
+  - Raul Piseaux
+  - G. R. Scott Budinger
+  - Navdeep S. Chandel
+  publisher: Nature
+  date: '2020-07-08'
+  link: https://doi.org/gtzxrb
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.eclinm.2020.100475
+  title: Risk stratification of hospitalized COVID-19 patients through comparative
+    studies of laboratory results with influenza
+  authors:
+  - Yang Mei
+  - Samuel E. Weinberg
+  - Lihui Zhao
+  - Adam Frink
+  - Chao Qi
+  - Amir Behdad
+  - Peng Ji
+  publisher: EClinicalMedicine
+  date: '2020-09-01'
+  link: https://doi.org/gg6v5p
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1111/bjh.16848
+  title: "Atypical lymphocytes in peripheral blood of patients with COVID\u201019"
+  authors:
+  - Samuel E. Weinberg
+  - Amir Behdad
+  - Peng Ji
+  publisher: British Journal of Haematology
+  date: '2020-06-02'
+  link: https://doi.org/ggx4ht
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1101/2020.05.18.20101709
+  title: Risk stratification of hospitalized COVID-19 patients through comparative
+    studies of laboratory results with influenza
+  authors:
+  - Yang Mei
+  - Samuel E Weinberg
+  - Lihui Zhao
+  - Chao Qi
+  - Adam Frink
+  - Amir Behdad
+  - Peng Ji
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-22'
+  link: https://doi.org/gk69qr
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.3389/fphys.2020.630910
+  title: Elevated CO2 Levels Delay Skeletal Muscle Repair by Increasing Fatty Acid
+    Oxidation
+  authors:
+  - Ermelinda Ceco
+  - Diego Celli
+  - Samuel Weinberg
+  - Masahiko Shigemura
+  - Lynn C. Welch
+  - Lena Volpe
+  - Navdeep S. Chandel
+  - Ankit Bharat
+  - Emilia Lecuona
+  - Jacob I. Sznajder
+  publisher: Frontiers in Physiology
+  date: '2021-01-21'
+  link: https://doi.org/g92btd
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.celrep.2019.06.024
+  title: Requirement of Mitochondrial Transcription Factor A in Tissue-Resident Regulatory
+    T Cell Maintenance and Function
+  authors:
+  - Zheng Fu
+  - Jian Ye
+  - Joseph W. Dean
+  - John W. Bostick
+  - Samuel E. Weinberg
+  - Lifeng Xiong
+  - Kristen N. Oliff
+  - Zongming E. Chen
+  - Dorina Avram
+  - Navdeep S. Chandel
+  - Liang Zhou
+  publisher: Cell Reports
+  date: '2019-07-01'
+  link: https://doi.org/gtt3tf
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.cmet.2019.01.014
+  title: "Serine Metabolism Supports Macrophage IL-1\u03B2 Production"
+  authors:
+  - Arianne E. Rodriguez
+  - Gregory S. Ducker
+  - Leah K. Billingham
+  - Carlos A. Martinez
+  - Nello Mainolfi
+  - Vipin Suri
+  - Adam Friedman
+  - Mark G. Manfredi
+  - Samuel E. Weinberg
+  - Joshua D. Rabinowitz
+  - Navdeep S. Chandel
+  publisher: Cell Metabolism
+  date: '2019-04-01'
+  link: https://doi.org/gfvk36
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.cmet.2018.12.004
+  title: Efferocytosis Fuels Requirements of Fatty Acid Oxidation and the Electron
+    Transport Chain to Polarize Macrophages for Tissue Repair
+  authors:
+  - Shuang Zhang
+  - Samuel Weinberg
+  - Matthew DeBerge
+  - Anastasiia Gainullina
+  - Matthew Schipma
+  - Jason M. Kinchen
+  - Issam Ben-Sahra
+  - David R. Gius
+  - Laurent Yvan-Charvet
+  - Navdeep S. Chandel
+  - Paul T. Schumacker
+  - Edward B. Thorp
+  publisher: Cell Metabolism
+  date: '2019-02-01'
+  link: https://doi.org/gnmn89
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1158/2326-6074.CRICIMTEATIAACR18-B067
+  title: 'Abstract B067: Distinct necessity of mitochondrial complex I and III for
+    regulatory T-cell function'
+  authors:
+  - Elizabeth M. Steinert
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Cancer Immunology Research
+  date: '2019-02-01'
+  link: https://doi.org/g92btf
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s41586-018-0846-z
+  title: Mitochondrial complex III is essential for suppressive function of regulatory
+    T cells
+  authors:
+  - Samuel E. Weinberg
+  - Benjamin D. Singer
+  - Elizabeth M. Steinert
+  - Carlos A. Martinez
+  - Manan M. Mehta
+  - "Inmaculada Mart\xEDnez-Reyes"
+  - Peng Gao
+  - Kathryn A. Helmin
+  - Hiam Abdala-Valencia
+  - Laura A. Sena
+  - Paul T. Schumacker
+  - Laurence A. Turka
+  - Navdeep S. Chandel
+  publisher: Nature
+  date: '2019-01-01'
+  link: https://doi.org/gfs3hr
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/s42255-018-0011-x
+  title: Mitochondrial complex III is necessary for endothelial cell proliferation
+    during angiogenesis
+  authors:
+  - Lauren P. Diebold
+  - Hyea Jin Gil
+  - Peng Gao
+  - Carlos A. Martinez
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Nature Metabolism
+  date: '2019-01-07'
+  link: https://doi.org/gf5gqr
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1186/s40170-018-0184-5
+  title: Hexokinase 2 is dispensable for T cell-dependent immunity
+  authors:
+  - Manan M. Mehta
+  - Samuel E. Weinberg
+  - Elizabeth M. Steinert
+  - Krishan Chhiba
+  - Carlos Alberto Martinez
+  - Peng Gao
+  - Harris R. Perlman
+  - Paul Bryce
+  - Nissim Hay
+  - Navdeep S. Chandel
+  publisher: Cancer &amp; Metabolism
+  date: '2018-08-17'
+  link: https://doi.org/gd4w4c
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/nri.2017.66
+  title: 'Mitochondrial control of immunity: beyond ATP'
+  authors:
+  - Manan M. Mehta
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  publisher: Nature Reviews Immunology
+  date: '2017-07-03'
+  link: https://doi.org/gf97hs
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1183/1393003.congress-2017.PA384
+  title: Increased fatty acid oxidation impairs myoblast differentiation in hypercapnia
+  authors:
+  - Emilia Lecuona
+  - Ermelinda Ceco
+  - Samuel Weinberg
+  - Masahiko Shigemura
+  - Lynn Welch
+  - Diego Celli
+  - Lena Volpe
+  - Navdeep Chandel
+  - Jabob Sznajder
+  publisher: Molecular Pathology and Functional Genomics
+  date: '2017-09-01'
+  link: https://doi.org/g92btg
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1165/rcmb.2016-0355TR
+  title: Metabolism and Skeletal Muscle Homeostasis in Lung Disease
+  authors:
+  - Ermelinda Ceco
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  - Jacob I. Sznajder
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2017-07-01'
+  link: https://doi.org/gbmhdz
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/ncb3527
+  title: "Regulation of mitochondrial biogenesis in erythropoiesis by mTORC1-mediated\
+    \ protein\_translation"
+  authors:
+  - Xin Liu
+  - Yuannyu Zhang
+  - Min Ni
+  - Hui Cao
+  - Robert A. J. Signer
+  - Dan Li
+  - Mushan Li
+  - Zhimin Gu
+  - Zeping Hu
+  - Kathryn E. Dickerson
+  - Samuel E. Weinberg
+  - Navdeep S. Chandel
+  - Ralph J. DeBerardinis
+  - Feng Zhou
+  - Zhen Shao
+  - Jian Xu
+  publisher: Nature Cell Biology
+  date: '2017-05-15'
+  link: https://doi.org/gbpfkc
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/ncb3529
+  title: The mitochondrial respiratory chain is essential for haematopoietic stem
+    cell function
+  authors:
+  - "Elena Ans\xF3"
+  - Samuel E. Weinberg
+  - Lauren P. Diebold
+  - Benjamin J. Thompson
+  - "S\xE9bastien Malinge"
+  - "Paul\_T. Schumacker"
+  - Xin Liu
+  - Yuannyu Zhang
+  - Zhen Shao
+  - Mya Steadman
+  - Kelly M. Marsh
+  - Jian Xu
+  - "John\_D. Crispino"
+  - Navdeep S. Chandel
+  publisher: Nature Cell Biology
+  date: '2017-05-15'
+  link: https://doi.org/f97d3n
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1073/pnas.1608198113
+  title: Label-free imaging of the native, living cellular nanoarchitecture using
+    partial-wave spectroscopic microscopy
+  authors:
+  - Luay M. Almassalha
+  - Greta M. Bauer
+  - John E. Chandler
+  - Scott Gladstein
+  - Lusik Cherkezyan
+  - Yolanda Stypula-Cyrus
+  - Samuel Weinberg
+  - Di Zhang
+  - Peder Thusgaard Ruhoff
+  - Hemant K. Roy
+  - Hariharan Subramanian
+  - Navdeep S. Chandel
+  - Igal Szleifer
+  - Vadim Backman
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-10-04'
+  link: https://doi.org/f87rfb
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.celrep.2016.03.044
+  title: The Mitochondrial Respiratory Chain Is Required for Organismal Adaptation
+    to Hypoxia
+  authors:
+  - "Robert\_B. Hamanaka"
+  - "Samuel\_E. Weinberg"
+  - "Colleen\_R. Reczek"
+  - "Navdeep\_S. Chandel"
+  publisher: Cell Reports
+  date: '2016-04-01'
+  link: https://doi.org/gtrg84
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.cmet.2016.03.010
+  title: Are Metformin Doses Used in Murine Cancer Models Clinically Relevant?
+  authors:
+  - "Navdeep\_S. Chandel"
+  - Dania Avizonis
+  - "Colleen\_R. Reczek"
+  - "Samuel\_E. Weinberg"
+  - Stephan Menz
+  - Roland Neuhaus
+  - Sven Christian
+  - Andrea Haegebarth
+  - Carolyn Algire
+  - Michael Pollak
+  publisher: Cell Metabolism
+  date: '2016-04-01'
+  link: https://doi.org/g92bth
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: issn:0892-6638
+  title: ISSN 0892-6638 (Print) | The FASEB journal | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0892-6638
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.molcel.2015.12.002
+  title: TCA Cycle and Mitochondrial Membrane Potential Are Necessary for Diverse
+    Biological Functions
+  authors:
+  - "Inmaculada Mart\xEDnez-Reyes"
+  - "Lauren\_P. Diebold"
+  - Hyewon Kong
+  - Michael Schieber
+  - He Huang
+  - "Christopher\_T. Hensley"
+  - "Manan\_M. Mehta"
+  - Tianyuan Wang
+  - "Janine\_H. Santos"
+  - Richard Woychik
+  - Eric Dufour
+  - "Johannes\_N. Spelbrink"
+  - "Samuel\_E. Weinberg"
+  - Yingming Zhao
+  - "Ralph\_J. DeBerardinis"
+  - "Navdeep\_S. Chandel"
+  publisher: Molecular Cell
+  date: '2016-01-01'
+  link: https://doi.org/f8fdzj
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.immuni.2015.02.002
+  title: Mitochondria in the Regulation of Innate and Adaptive Immunity
+  authors:
+  - "Samuel\_E. Weinberg"
+  - "Laura\_A. Sena"
+  - "Navdeep\_S. Chandel"
+  publisher: Immunity
+  date: '2015-03-01'
+  link: https://doi.org/f7cgkf
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1038/nchembio.1712
+  title: Targeting mitochondria metabolism for cancer therapy
+  authors:
+  - Samuel E Weinberg
+  - Navdeep S Chandel
+  publisher: Nature Chemical Biology
+  date: '2014-12-17'
+  link: https://doi.org/gdj585
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.immuni.2014.06.009
+  title: Futility Sustains Memory T Cells
+  authors:
+  - "Samuel\_E. Weinberg"
+  - "Navdeep\_S. Chandel"
+  publisher: Immunity
+  date: '2014-07-01'
+  link: https://doi.org/ggj6gx
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1093/toxsci/kfu065
+  title: Liver Tumor Promotion by 2,3,7,8-Tetrachlorodibenzo-p-dioxin Is Dependent
+    on the Aryl Hydrocarbon Receptor and TNF/IL-1 Receptors
+  authors:
+  - Gregory D. Kennedy
+  - Manabu Nukaya
+  - Susan M. Moran
+  - Edward Glover
+  - Samuel Weinberg
+  - Silvia Balbo
+  - Stephen S. Hecht
+  - Henry C. Pitot
+  - Norman R. Drinkwater
+  - Christopher A. Bradfield
+  publisher: Toxicological Sciences
+  date: '2014-04-09'
+  link: https://doi.org/g92btj
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.7554/eLife.02242
+  title: Metformin inhibits mitochondrial complex I of cancer cells to reduce tumorigenesis
+  authors:
+  - William W Wheaton
+  - Samuel E Weinberg
+  - Robert B Hamanaka
+  - Saul Soberanes
+  - Lucas B Sullivan
+  - Elena Anso
+  - Andrea Glasauer
+  - Eric Dufour
+  - Gokhan M Mutlu
+  - GR Scott Budigner
+  - Navdeep S Chandel
+  publisher: eLife
+  date: '2014-05-13'
+  link: https://doi.org/gfpb2x
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1073/pnas.1003428107
+  title: Mitochondrial metabolism and ROS generation are essential for Kras-mediated
+    tumorigenicity
+  authors:
+  - Frank Weinberg
+  - Robert Hamanaka
+  - William W. Wheaton
+  - Samuel Weinberg
+  - Joy Joseph
+  - Marcos Lopez
+  - Balaraman Kalyanaraman
+  - "G\xF6khan M. Mutlu"
+  - G. R. Scott Budinger
+  - Navdeep S. Chandel
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2010-04-26'
+  link: https://doi.org/bhkrsk
+  orcid: 0000-0002-9532-7051
+  plugin: orcid.py
+  file: orcid-sam.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
