@@ -23,3 +23,12 @@ footer a:hover {
 footer .icon {
   font-size: var(--xl);
 }
+
+footer .footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  max-width: var(--width);
+  margin: 0 auto;
+}

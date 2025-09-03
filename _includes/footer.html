@@ -32,11 +32,14 @@
     </a>
   </div>
 
-  <input
-    type="checkbox"
-    class="dark-toggle"
-    data-tooltip="Dark mode"
-    aria-label="toggle dark mode"
-    oninput="onDarkToggleChange(event)"
-  >
+  <div class="footer-bottom">
+    <input
+      type="checkbox"
+      class="dark-toggle"
+      data-tooltip="Dark mode"
+      aria-label="toggle dark mode"
+      oninput="onDarkToggleChange(event)"
+    >
+    {% include site-search.html %}
+  </div>
 </footer>
