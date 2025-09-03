@@ -562,7 +562,16 @@
     </a>
   </div>
 
-  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+  <div class="footer-bottom">
+    <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+    <form onsubmit="onSiteSearchSubmit(event)">
+  <input type="text" name="query" placeholder="Search site with Google">
+  <button type="submit" class="button" aria-label="search site">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</form>
+
+  </div>
 </footer>
 
   </body>
