@@ -6,8 +6,8 @@
   --primary: #4E2A84;        // Northwestern Purple (main brand color)
   --secondary: #B6ACD1;      // Light Purple accent
   --text: #000000;           // Black for readable text (default)
-  --background: #FFFFFF;     // White background (default)
-  --background-alt: #fafafa; // Light alternate background (default)
+  --background: #F5F5F5;     // Light grey background
+  --background-alt: #F5F5F5; // Light alternate background
   --light-gray: #BBB8B8;     // Light Grey
   --gray: #716C6B;           // Grey
   --dark-gray: #342F2E;      // Dark Grey
@@ -15,11 +15,11 @@
 }
 
 [data-dark="true"] {
-  --primary: #4E2A84;        // Northwestern Purple (main brand color)
-  --secondary: #B6ACD1;      // Light Purple accent
+  --primary: #B6ACD1;        // Light Purple accent becomes primary in dark mode
+  --secondary: #4E2A84;      // Northwestern Purple becomes secondary in dark mode
   --text: #ffffff;           // White text (default)
-  --background: #181818;     // Dark background (default)
-  --background-alt: #1c1c1c; // Dark alternate background (default)
+  --background: #181818;     // Original dark background
+  --background-alt: #181818; // Same as background to remove alternating sections
   --light-gray: #716C6B;     // Grey
   --gray: #BBB8B8;           // Light Grey
   --dark-gray: #342F2E;      // Dark Grey
