@@ -26,3 +26,15 @@
     - type: research-briefing
       link: https://www.nature.com/articles/s41590-025-02226-3
   repo: greenelab/meta-review
+
+- id: doi:10.4049/jimmunol.212.supp.1468.5593
+  type: preprint
+  title: Tumor derived acidity enhances Treg suppressive functions against anti-tumor Teffs
+  date: 2024-05-01
+  doi: 10.4049/jimmunol.212.supp.1468.5593
+  journal: Journal of Immunology
+  issn: 0022-1767
+  contributors:
+    - Nikita Mani
+    - Samuel Weinberg
+    - Deyu Fang

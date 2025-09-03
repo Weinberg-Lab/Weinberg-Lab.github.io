@@ -1,3 +1,5 @@
 - orcid: 0000-0002-9532-7051
 - sam-weinberg: true
 # Second value here is for filtering by Sam's publications if we need
+# Needs to start with orcid to run
+
