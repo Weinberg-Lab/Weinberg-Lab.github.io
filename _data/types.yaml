@@ -191,6 +191,11 @@ unpublished:
   text: Unpublished
   tooltip: Unpublished
 
+research-briefing:
+  icon: fa-solid fa-newspaper
+  text: Briefing
+  tooltip: Research Briefing
+
 manubot:
   icon: manubot.svg
   text: Manubot

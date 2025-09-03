@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This page contains a full list of publications, including recent featured work from members of the lab. Works are searchable by authors, titles, tags, and more.
 
 {% include section.html %}
 
 ## Featured
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Mitochondrial respiration is necessary" style="rich" %}
 
 {% include section.html %}
 
