@@ -9,6 +9,9 @@ nav:
 
 This page contains a full list of publications, including recent featured work from members of the lab. Works are searchable by authors, titles, tags, and more.
 
+{:.center}
+{% include button.html icon="fa-brands fa-google" text="View on Google Scholar" link="https://scholar.google.com/" tooltip="Visit our Google Scholar profile" style="outline" %}
+
 {% include section.html %}
 
 ## Featured
