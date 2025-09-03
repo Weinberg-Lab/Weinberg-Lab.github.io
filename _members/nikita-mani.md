@@ -3,6 +3,7 @@ name: Nikita Mani, PhD
 image: images/photo.jpg
 role: postdoc
 aliases:
+    - Nikita L. Mani
 links:
 ---
 
