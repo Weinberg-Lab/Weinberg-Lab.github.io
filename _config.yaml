@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: Weinberg Lab
-subtitle: Feinberg School of Medicine — Northwestern University
+subtitle: Northwestern University
 description: We are a group in the Pathology Department at Northwestern University focused on immunometabolism, inflammation, and mitochondrial biology. 
-header: images/background.jpg
-footer: images/background.jpg
+header: images/campus_photo_night.jpg
+footer: images/campus_photo_night.jpg
 proofer: false
 
 # site social media and other links

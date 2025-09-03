@@ -1,9 +1,10 @@
 ---
 ---
 
-# Weinberg-Lab's Website
+# Exploring the Intersection of Metabolism and Immunity
 
-Welcome to the Weinberg Lab! Our lab is interested in the fundamental question of **how metabolism influences immunity**, from dendritic cell biology to lactate to primary mitochondrial disorders. We are located in the Pathology Department of the Feinberg School of Medicine at Northwestern University.
+
+Welcome to the Weinberg Lab website! Our lab is interested in the fundamental question of **how metabolism influences immunity**, from dendritic cell biology to lactate to primary mitochondrial disorders. We are located in the Pathology Department of the Feinberg School of Medicine at Northwestern University.
 
 {% include section.html %}
 
