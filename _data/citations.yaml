@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.xcrm.2025.102262
+  title: Identification of immune signatures associated with both SARS-CoV-2 infection
+    and lung transplantation
+  authors:
+  - Andrew D. Hoffmann
+  - Hannah Faisal Almubarak
+  - Radhika Iyer
+  - Sam E. Weinberg
+  - Joshua R. Squires
+  - Chengsheng Mao
+  - Juncheng Wei
+  - Shuvam Chaudhuri
+  - Lamiaa El-Shennawy
+  - Nurmaa K. Dashzeveg
+  - Yuzhi Jia
+  - Alexis R. Demonbreun
+  - Matthew J. Schipma
+  - Yuan Luo
+  - Suchitra Swaminathan
+  - Michael G. Ison
+  - Huiping Liu
+  - Deyu Fang
+  publisher: Cell Reports Medicine
+  date: '2025-08-01'
+  link: https://doi.org/g92bsb
+  orcid: 0000-0002-9532-7051
+  sam-weinberg: true
+  plugin: orcid.py
+  file: orcid-sam.yaml
 - id: doi:10.1016/j.immuni.2025.07.012
   title: Mitochondria reactive oxygen species signaling in immune responses
   authors:
@@ -40,35 +69,6 @@
   - type: research-briefing
     link: https://www.nature.com/articles/s41590-025-02226-3
   repo: greenelab/meta-review
-- id: doi:10.1016/j.xcrm.2025.102262
-  title: Identification of immune signatures associated with both SARS-CoV-2 infection
-    and lung transplantation
-  authors:
-  - Andrew D. Hoffmann
-  - Hannah Faisal Almubarak
-  - Radhika Iyer
-  - Sam E. Weinberg
-  - Joshua R. Squires
-  - Chengsheng Mao
-  - Juncheng Wei
-  - Shuvam Chaudhuri
-  - Lamiaa El-Shennawy
-  - Nurmaa K. Dashzeveg
-  - Yuzhi Jia
-  - Alexis R. Demonbreun
-  - Matthew J. Schipma
-  - Yuan Luo
-  - Suchitra Swaminathan
-  - Michael G. Ison
-  - Huiping Liu
-  - Deyu Fang
-  publisher: Cell Reports Medicine
-  date: '2025-08-01'
-  link: https://doi.org/g92bsb
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.1172/JCI178960
   title: "Treg activation during allograft tolerance induction requires mitochondrial-induced\
     \ TGF\u03B21 in type 1 conventional dendritic cells"
