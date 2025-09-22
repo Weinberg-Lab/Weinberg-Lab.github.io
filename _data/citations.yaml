@@ -1,5 +1,79 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1172/JCI192925
+  title: Maintenance DNA methylation is required for induced Treg reparative function
+    following viral pneumonia in mice
+  authors:
+  - Anthony M. Joudi
+  - Jonathan K Gurkan
+  - Qianli Liu
+  - Elizabeth M. Steinert
+  - Manuel A. Torres Acosta
+  - Kathryn A. Helmin
+  - Luisa Morales-Nebreda
+  - Nurbek Mambetsariev
+  - Carla Patricia Reyes Flores
+  - Hiam Abdala-Valencia
+  - Samuel E. Weinberg
+  - Benjamin D. Singer
+  publisher: Journal of Clinical Investigation
+  date: '2025-09-16'
+  link: https://doi.org/g939p6
+  orcid: 0000-0002-9532-7051
+  sam-weinberg: true
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1172/JCI178960
+  title: "Treg activation during allograft tolerance induction requires mitochondrial-induced\
+    \ TGF\u03B21 in type 1 conventional dendritic cells"
+  authors:
+  - Samantha L Schroth
+  - Lei Zhang
+  - Rebecca T.L. Jones
+  - Kristofor Glinton
+  - Nikita L. Mani
+  - Hiroyasu Inui
+  - Jesse T. Davidson
+  - Samuel E. Weinberg
+  - Navdeep Chandel
+  - Maria-Luisa Alegre
+  - Edward B. Thorp
+  publisher: Journal of Clinical Investigation
+  date: '2025-07-10'
+  link: https://doi.org/g9w34t
+  orcid: 0000-0002-9532-7051
+  sam-weinberg: true
+  plugin: orcid.py
+  file: orcid-sam.yaml
+- id: doi:10.1016/j.xcrm.2025.102262
+  title: Identification of immune signatures associated with both SARS-CoV-2 infection
+    and lung transplantation
+  authors:
+  - Andrew D. Hoffmann
+  - Hannah Faisal Almubarak
+  - Radhika Iyer
+  - Sam E. Weinberg
+  - Joshua R. Squires
+  - Chengsheng Mao
+  - Juncheng Wei
+  - Shuvam Chaudhuri
+  - Lamiaa El-Shennawy
+  - Nurmaa K. Dashzeveg
+  - Yuzhi Jia
+  - Alexis R. Demonbreun
+  - Matthew J. Schipma
+  - Yuan Luo
+  - Suchitra Swaminathan
+  - Michael G. Ison
+  - Huiping Liu
+  - Deyu Fang
+  publisher: Cell Reports Medicine
+  date: '2025-08-01'
+  link: https://doi.org/g92bsb
+  orcid: 0000-0002-9532-7051
+  sam-weinberg: true
+  plugin: orcid.py
+  file: orcid-sam.yaml
 - id: doi:10.1016/j.immuni.2025.07.012
   title: Mitochondria reactive oxygen species signaling in immune responses
   authors:
@@ -40,57 +114,6 @@
   - type: research-briefing
     link: https://www.nature.com/articles/s41590-025-02226-3
   repo: greenelab/meta-review
-- id: doi:10.1016/j.xcrm.2025.102262
-  title: Identification of immune signatures associated with both SARS-CoV-2 infection
-    and lung transplantation
-  authors:
-  - Andrew D. Hoffmann
-  - Hannah Faisal Almubarak
-  - Radhika Iyer
-  - Sam E. Weinberg
-  - Joshua R. Squires
-  - Chengsheng Mao
-  - Juncheng Wei
-  - Shuvam Chaudhuri
-  - Lamiaa El-Shennawy
-  - Nurmaa K. Dashzeveg
-  - Yuzhi Jia
-  - Alexis R. Demonbreun
-  - Matthew J. Schipma
-  - Yuan Luo
-  - Suchitra Swaminathan
-  - Michael G. Ison
-  - Huiping Liu
-  - Deyu Fang
-  publisher: Cell Reports Medicine
-  date: '2025-08-01'
-  link: https://doi.org/g92bsb
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: doi:10.1172/JCI178960
-  title: "Treg activation during allograft tolerance induction requires mitochondrial-induced\
-    \ TGF\u03B21 in type 1 conventional dendritic cells"
-  authors:
-  - Samantha L Schroth
-  - Lei Zhang
-  - Rebecca T.L. Jones
-  - Kristofor Glinton
-  - Nikita L. Mani
-  - Hiroyasu Inui
-  - Jesse T. Davidson
-  - Samuel E. Weinberg
-  - Navdeep Chandel
-  - Maria-Luisa Alegre
-  - Edward B. Thorp
-  publisher: Journal of Clinical Investigation
-  date: '2025-07-10'
-  link: https://doi.org/g9w34t
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.1016/j.cmet.2025.04.001
   title: Protein O-GlcNAcylation and hexokinase mitochondrial dissociation drive heart
     failure with preserved ejection fraction
