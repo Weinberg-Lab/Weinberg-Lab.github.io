@@ -1,17 +1,13 @@
 ---
 name: Yichen Gong
-image: images/photo.jpg
+image: images/headshots/yichen.jpg
 role: phd
 aliases:
   - 
   - 
 links:
+  linkedin: yichengong0328
+  email: yichengong2028@u.northwestern.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Yichen Gong is a Ph.D. student in the Weinberg lab through the DGP program. Her research focuses on using CRISPR screens to investigate dendritic cells within the tumor microenvironment. In addition to her Ph.D. work, she is also pursuing an MPH in public health. Outside the lab, Yichen loves exploring new attractions, playing video games, and spending time with cats and dogs (the fluffier, the better).
