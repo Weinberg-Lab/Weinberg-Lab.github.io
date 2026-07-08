@@ -3,8 +3,6 @@ name: Nour Almushref, MD
 image: images/headshots/nour.jpg
 role: postdoc
 aliases:
-  - 
-  - 
 links:
   orcid: 0009-0005-5797-7343
 ---

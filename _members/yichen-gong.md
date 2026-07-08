@@ -3,8 +3,6 @@ name: Yichen Gong
 image: images/headshots/yichen.jpg
 role: phd
 aliases:
-  - 
-  - 
 links:
   linkedin: yichengong0328
   email: yichengong2028@u.northwestern.edu
