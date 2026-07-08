@@ -20,6 +20,7 @@ This page contains a full list of publications, including recent featured work f
 {% include citation.html lookup="essential for suppressive function" style="rich" %}
 {% include citation.html lookup="superoxide is essential for IL-10" style="rich" %}
 {% include citation.html lookup="reactive oxygen species signaling in immune" style="rich" %}
+{% include citation.html lookup="Acidity induces durable enhancement" style="rich" %}
 
 {% include section.html %}
 

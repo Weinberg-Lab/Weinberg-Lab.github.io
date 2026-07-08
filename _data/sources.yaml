@@ -32,7 +32,7 @@
 # ---------------------------------------------------------------------------
 # Selected Publications (rendered rich at the top of the publications page).
 # To give one a figure image: drop a file in images/publication-images/ and
-# uncomment its `image:` line below. Until then it shows a neutral placeholder.
+# uncomment its `image:` line below. Until then each shows a neutral placeholder.
 # ---------------------------------------------------------------------------
 
 # 2019 Nature - Sam's signature paper (complex III / Treg suppression)
@@ -49,6 +49,11 @@
 - id: doi:10.1016/j.immuni.2025.07.012
   type: paper
   # image: images/publication-images/immunity2025-ros-review.png
+
+# 2024 Molecular Immunology - Nikita Mani first author (acidity / Treg)
+- id: doi:10.1016/j.molimm.2024.08.004
+  type: paper
+  # image: images/publication-images/mani2024-acidity.png
 
 # ---------------------------------------------------------------------------
 # Removed noise: ORCID/Scholar pull in ISSN records, conference abstracts,
