@@ -69,3 +69,4 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+  - ai-docs      # notes for AI agents; never published to the site
