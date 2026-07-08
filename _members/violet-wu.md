@@ -3,8 +3,6 @@ name: Violet Wu
 image: images/photo.jpg
 role: phd
 aliases:
-  - 
-  - 
 links:
 ---
 
