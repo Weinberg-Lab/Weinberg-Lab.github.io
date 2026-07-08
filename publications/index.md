@@ -14,9 +14,12 @@ This page contains a full list of publications, including recent featured work f
 
 {% include section.html %}
 
-## Featured
+## Selected Publications
 
 {% include citation.html lookup="Mitochondrial respiration is necessary" style="rich" %}
+{% include citation.html lookup="essential for suppressive function" style="rich" %}
+{% include citation.html lookup="superoxide is essential for IL-10" style="rich" %}
+{% include citation.html lookup="reactive oxygen species signaling in immune" style="rich" %}
 
 {% include section.html %}
 
@@ -26,4 +29,4 @@ This page contains a full list of publications, including recent featured work f
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}

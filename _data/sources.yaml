@@ -28,3 +28,48 @@
 
 - id: doi:10.4049/jimmunol.212.supp.1468.5593
   remove: true
+
+# ---------------------------------------------------------------------------
+# Selected Publications (rendered rich at the top of the publications page).
+# To give one a figure image: drop a file in images/publication-images/ and
+# uncomment its `image:` line below. Until then it shows a neutral placeholder.
+# ---------------------------------------------------------------------------
+
+# 2019 Nature - Sam's signature paper (complex III / Treg suppression)
+- id: doi:10.1038/s41586-018-0846-z
+  type: paper
+  # image: images/publication-images/weinberg2019-nature.png
+
+# 2025 Science Advances - complex III superoxide / IL-10
+- id: doi:10.1126/sciadv.adu4369
+  type: paper
+  # image: images/publication-images/sciadv2025-il10.png
+
+# 2025 Immunity - mitochondrial ROS signaling review (Sam first author)
+- id: doi:10.1016/j.immuni.2025.07.012
+  type: paper
+  # image: images/publication-images/immunity2025-ros-review.png
+
+# ---------------------------------------------------------------------------
+# Removed noise: ORCID/Scholar pull in ISSN records, conference abstracts,
+# errata, and duplicate preprints. These are hidden from the publications list.
+# ---------------------------------------------------------------------------
+
+# ISSN "portal" records ORCID mistakes for papers
+- { id: issn:1556-0864, remove: true }
+- { id: issn:1073-449X, remove: true }
+- { id: issn:0022-1767, remove: true }
+- { id: issn:0893-3952, remove: true }
+- { id: issn:0023-6837, remove: true }
+- { id: issn:0892-6638, remove: true }
+
+# conference abstracts and an author correction
+- { id: doi:10.1158/1538-7445.AM2024-176, remove: true }
+- { id: doi:10.1158/2326-6074.CRICIMTEATIAACR18-B067, remove: true }
+- { id: doi:10.1038/s41598-022-12069-9, remove: true }
+
+# bioRxiv/medRxiv preprints that duplicate already-listed published papers
+- { id: doi:10.1101/2025.02.25.640199, remove: true }
+- { id: doi:10.1101/2023.11.29.568904, remove: true }
+- { id: doi:10.1101/2022.03.26.485922, remove: true }
+- { id: doi:10.1101/2020.05.18.20101709, remove: true }
