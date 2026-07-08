@@ -309,8 +309,9 @@
   link: https://doi.org/g92br8
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1038/s41590-025-02202-x
   title: Mitochondrial respiration is necessary for CD8+ T cell proliferation and
     cell fate
@@ -447,29 +448,6 @@
   sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
-- id: doi:10.1101/2025.02.25.640199
-  title: Maintenance DNA methylation is required for induced regulatory T cell reparative
-    function following viral pneumonia
-  authors:
-  - Anthony M. Joudi
-  - Jonathan K. Gurkan
-  - Qianli Liu
-  - Manuel A. Torres Acosta
-  - Kathryn A. Helmin
-  - Luisa Morales-Nebreda
-  - Nurbek Mambetsariev
-  - Carla Patricia Reyes Flores
-  - Hiam Abdala-Valencia
-  - Elizabeth M. Steinert
-  - Samuel E. Weinberg
-  - Benjamin D. Singer
-  publisher: openRxiv
-  date: '2025-03-01'
-  link: https://doi.org/g92bsf
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.1126/sciadv.adu4369
   title: "Mitochondria complex III\u2013generated superoxide is essential for IL-10\
     \ secretion in macrophages"
@@ -490,8 +468,9 @@
   link: https://doi.org/g82sm5
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1172/JCI186520
   title: 'Sex, cells, and metabolism: Androgens temper Th17-mediated immunity'
   authors:
@@ -557,18 +536,9 @@
   link: https://doi.org/g92bsj
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: issn:1556-0864
-  title: ISSN 1556-0864 - Journal of thoracic oncology
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1556-0864
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1038/s42255-024-01080-1
   title: Mitochondrial respiration in microglia is essential for response to demyelinating
     injury but not proliferation
@@ -591,16 +561,6 @@
   publisher: Nature Metabolism
   date: '2024-07-24'
   link: https://doi.org/gt45n8
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: issn:1073-449X
-  title: ISSN 1073-449X - American journal of respiratory and critical care medicine
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1073-449X
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
   plugin: orcid.py
@@ -641,23 +601,6 @@
   sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
-- id: doi:10.1158/1538-7445.AM2024-176
-  title: 'Abstract 176: Stearic acid induces pro-inflammatory macrophage response
-    important for lung cancer development'
-  authors:
-  - Amrita Roy
-  - Martin Davis
-  - Samuel Weinberg
-  - Apurva Mallisetty
-  - Alicia Hulbert
-  - Frank D. Weinberg
-  publisher: Cancer Research
-  date: '2024-03-22'
-  link: https://doi.org/g92bsm
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.3389/fncel.2024.1321682
   title: Characterization of hyperpolarization-activated cyclic nucleotide-gated channels
     in oligodendrocytes
@@ -678,29 +621,6 @@
   publisher: Frontiers in Cellular Neuroscience
   date: '2024-02-26'
   link: https://doi.org/g92bsn
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: doi:10.1101/2023.11.29.568904
-  title: AMP-activated protein kinase is necessary for Treg cell functional adaptation
-    to microenvironmental stress
-  authors:
-  - Manuel A. Torres Acosta
-  - Nurbek Mambetsariev
-  - Carla P. Reyes Flores
-  - Kathryn A. Helmin
-  - Qianli Liu
-  - Anthony M. Joudi
-  - Luisa Morales-Nebreda
-  - Jonathan Gurkan
-  - Kathleen Cheng
-  - Hiam Abdala-Valencia
-  - Samuel E. Weinberg
-  - Benjamin D. Singer
-  publisher: openRxiv
-  date: '2023-12-01'
-  link: https://doi.org/g92bsp
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
   plugin: orcid.py
@@ -909,34 +829,6 @@
   sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
-- id: doi:10.1038/s41598-022-12069-9
-  title: 'Author Correction: Reduced expression of mitochondrial complex I subunit
-    Ndufs2 does not impact healthspan in mice'
-  authors:
-  - Gregory S. McElroy
-  - Ram P. Chakrabarty
-  - "Karis B. D\u2019Alessandro"
-  - Yuan-Shih Hu
-  - Karthik Vasan
-  - Jerica Tan
-  - Joshua S. Stoolman
-  - Samuel E. Weinberg
-  - Elizabeth M. Steinert
-  - Paul A. Reyfman
-  - Benjamin D. Singer
-  - Warren C. Ladiges
-  - Lin Gao
-  - "Jos\xE9 Lop\xE9z\u2011Barneo"
-  - Karen Ridge
-  - G. R. Scott Budinger
-  - Navdeep S. Chandel
-  publisher: Scientific Reports
-  date: '2022-05-17'
-  link: https://doi.org/g92bsz
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.4049/jimmunol.208.Supp.166.13
   title: Mediator complex maintains peripheral T cell tolerance through enforcement
     of the quiescence module
@@ -948,40 +840,6 @@
   publisher: The Journal of Immunology
   date: '2022-05-01'
   link: https://doi.org/g92bs2
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: doi:10.1101/2022.03.26.485922
-  title: Unique molecular signatures sustained in circulating monocytes and regulatory
-    T cells in Convalescent COVID-19 patients
-  authors:
-  - Andrew D. Hoffmann
-  - Sam E. Weinberg
-  - Suchitra Swaminathan
-  - Shuvam Chaudhuri
-  - Hannah Faisal Mubarak
-  - Matthew J. Schipma
-  - Chengsheng Mao
-  - Xinkun Wang
-  - Lamiaa El-Shennawy
-  - Nurmaa K. Dashzeveg
-  - Juncheng Wei
-  - Paul J. Mehl
-  - Laura J. Shihadah
-  - Ching Man Wai
-  - Carolina Ostiguin
-  - Yuzhi Jia
-  - "Paolo D\u2019Amico"
-  - Neale R. Wang
-  - Yuan Luo
-  - Alexis R. Demonbreun
-  - Michael G. Ison
-  - Huiping Liu
-  - Deyu Fang
-  publisher: openRxiv
-  date: '2022-03-28'
-  link: https://doi.org/g92bs3
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
   plugin: orcid.py
@@ -1143,16 +1001,6 @@
   sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
-- id: issn:0022-1767
-  title: ISSN 0022-1767 - The Journal of immunology (1950)
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0022-1767
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.1073/pnas.2021385118
   title: Mitochondrial metabolism is essential for invariant natural killer T cell
     development and function
@@ -1171,26 +1019,6 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-03-22'
   link: https://doi.org/gpdw38
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: issn:0893-3952
-  title: ISSN 0893-3952 - Modern pathology
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0893-3952
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: issn:0023-6837
-  title: ISSN 0023-6837 - Laboratory investigation (Print)
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0023-6837
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
   plugin: orcid.py
@@ -1313,24 +1141,6 @@
   sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
-- id: doi:10.1101/2020.05.18.20101709
-  title: Risk stratification of hospitalized COVID-19 patients through comparative
-    studies of laboratory results with influenza
-  authors:
-  - Yang Mei
-  - Samuel E Weinberg
-  - Lihui Zhao
-  - Chao Qi
-  - Adam Frink
-  - Amir Behdad
-  - Peng Ji
-  publisher: openRxiv
-  date: '2020-05-22'
-  link: https://doi.org/gk69qr
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.3389/fphys.2020.630910
   title: Elevated CO2 Levels Delay Skeletal Muscle Repair by Increasing Fatty Acid
     Oxidation
@@ -1418,20 +1228,6 @@
   sam-weinberg: true
   plugin: orcid.py
   file: orcid-sam.yaml
-- id: doi:10.1158/2326-6074.CRICIMTEATIAACR18-B067
-  title: 'Abstract B067: Distinct necessity of mitochondrial complex I and III for
-    regulatory T-cell function'
-  authors:
-  - Elizabeth M. Steinert
-  - Samuel E. Weinberg
-  - Navdeep S. Chandel
-  publisher: Cancer Immunology Research
-  date: '2019-02-01'
-  link: https://doi.org/g92btf
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
 - id: doi:10.1038/s41586-018-0846-z
   title: Mitochondrial complex III is essential for suppressive function of regulatory
     T cells
@@ -1454,8 +1250,9 @@
   link: https://doi.org/gfs3hr
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1038/s42255-018-0011-x
   title: Mitochondrial complex III is necessary for endothelial cell proliferation
     during angiogenesis
@@ -1647,16 +1444,6 @@
   publisher: Cell Metabolism
   date: '2016-04-01'
   link: https://doi.org/g92bth
-  orcid: 0000-0002-9532-7051
-  sam-weinberg: true
-  plugin: orcid.py
-  file: orcid-sam.yaml
-- id: issn:0892-6638
-  title: ISSN 0892-6638 - The FASEB journal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0892-6638
   orcid: 0000-0002-9532-7051
   sam-weinberg: true
   plugin: orcid.py
